@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Temp\\webapp1\\webapp1.csproj": {}
+    "G:\\Temp\\dotnetcore-project1\\dotnetcore-project1.csproj": {}
   },
   "projects": {
-    "G:\\Temp\\webapp1\\webapp1.csproj": {
+    "G:\\Temp\\dotnetcore-project1\\dotnetcore-project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Temp\\webapp1\\webapp1.csproj",
-        "projectName": "webapp1",
-        "projectPath": "G:\\Temp\\webapp1\\webapp1.csproj",
+        "projectUniqueName": "G:\\Temp\\dotnetcore-project1\\dotnetcore-project1.csproj",
+        "projectName": "dotnetcore-project1",
+        "projectPath": "G:\\Temp\\dotnetcore-project1\\dotnetcore-project1.csproj",
         "packagesPath": "C:\\Users\\447.SUM-001290\\.nuget\\packages\\",
-        "outputPath": "G:\\Temp\\webapp1\\obj\\",
+        "outputPath": "G:\\Temp\\dotnetcore-project1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\447.SUM-001290\\AppData\\Roaming\\NuGet\\NuGet.Config"
